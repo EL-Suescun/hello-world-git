@@ -48,3 +48,20 @@ Underline 2
 <asassa
 
 
+#Divisiones
+Parte 1
+---
+Parte 2
+***
+
+yo que se 
+___
+
+
+# Saltos de linea
+Salto 1 
+
+Salto 2
+Salto 3
+
+
