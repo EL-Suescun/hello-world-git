@@ -10,3 +10,26 @@ Underline 1
 
 Underline 2
 ==================
+
+
+-Letra *italica* primer forma
+
+-Letra _italica_ segunda forma
+
+-Letra **bold si** forma
+-Letra __bold si__ forma
+
+-Letra ~~tachado~~ forma
+
+# Lista
+----------
+
+1. as
+2. xd}
+3. as
+
+   ```
+   sddsds
+   ```
+
+
