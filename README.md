@@ -32,4 +32,14 @@ Underline 2
    sddsds
    ```
 
+# Tabla
+| Nombre | Apellido | Documentacion |
+|--------|----------|---------------|
+|Maxi | Burgos | 3456 |
+|Tomas | sdsd |2123|
+|--------|----------|---------------|
+
+
+
+
 
